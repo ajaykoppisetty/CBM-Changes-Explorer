@@ -14,7 +14,7 @@ Application for use in testing and understanding interaction of Couchbase Lite, 
 
 `mvn package appbundle:bundle`
 
-Bundle is in `target/CBMChangesExplorer-1.0.0`
+Bundle is in `target/CBMChangesExplorer-1.0.0`.  You can launch from here with Finder (or copy to Applications).
 
 ## Create .dmg
 
