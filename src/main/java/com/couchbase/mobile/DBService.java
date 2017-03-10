@@ -12,8 +12,6 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
-import static java.lang.Thread.sleep;
-
 public class DBService implements Replication.ChangeListener {
   public static final String DATABASE = "db";
 
